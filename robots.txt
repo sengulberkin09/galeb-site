@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://galebdondurma.com/sitemap.xml
+Sitemap: https://galeb.com.tr/sitemap.xml
